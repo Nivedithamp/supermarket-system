@@ -1,4 +1,5 @@
 **Supermarket Management System**
+
 This is a simple Python script for managing a supermarket inventory. It allows users to view items, add new items, purchase items, search for items, and edit item details.
 
 **Features**
